@@ -1,0 +1,118 @@
+afra_compounds,canonical_smiles,mol,morgan_fp,Predicted_Probability,Predicted_Class
+"1,8-cineole",CC1(C2CCC(O1)(CC2)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a30999a14d0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3080860f20>,0.5175300164727755,1
+1-epi-cubenol,CC1CCC(C2C1(CCC(=C2)C)O)C(C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a30529afc30>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2c70>,0.6147810586460429,1
+1-Octacosanol,CCCCCCCCCCCCCCCCCCCCCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c660>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2c00>,1.0,1
+1-octen-3-ol,CCCCCC(C=C)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c6d0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2b90>,1.0,1
+"2,4-Dihydroxy-6 methoxyacetophenone",CC(=O)C1=C(C=C(C=C1OC)O)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c0b0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2ce0>,0.6002920383390373,1
+2-methyl butyl isovalerate,CCC(C)COC(=O)CC(C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c740>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2d50>,1.0,1
+3-thujanone,C[C@@H]1[C@@H]2C[C@]2(CC1=O)C(C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c040>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2dc0>,0.6147810586460429,1
+4-O-Methylglucuronic acid,CO[C@@H]([C@@H]([C@H](C=O)O)O)[C@@H](C(=O)O)O ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c7b0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2e30>,1.0,1
+4-terpineol,CC1=CCC(CC1)(C(C)C)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c820>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2ea0>,0.6147810586460429,1
+Arabinose,C1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c120>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2f10>,0.5251115283124841,1
+ar-curcumene,CC1=CC=C(C=C1)[C@@H](C)CCC=C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c890>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2f80>,0.6002920383390373,1
+Arteannuin P,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c190>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd2ff0>,0.6147810586460429,1
+Arteannuin T,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c270>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd30d0>,0.6147810586460429,1
+Artemin,CC1C2CCC3(C(CCC(=C)C3(C2OC1=O)O)O)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c2e0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3140>,0.8904432824184437,1
+artemisal, C[C@@H]1CC[C@H]([C@@H]2[C@H]1CCC(=C2)C)C(=C)C(=O)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c350>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd31b0>,0.6147810586460429,1
+artemisia alcohol,CC(=CC(C(C)(C)C=C)OC(=O)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c900>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3220>,1.0,1
+artemisia ketone,CC(=CC(=O)C(C)(C)C=C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c3c0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3290>,1.0,1
+artemisyl acetate,CC(=CC(C(C)(C)C=C)OC(=O)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c430>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3300>,1.0,1
+Artesin,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c4a0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3370>,0.6147810586460429,1
+ascaridole,CC(C)C12CCC(C=C1)(OO2)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c510>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd33e0>,0.5130700195221668,1
+azulene,C1=CC=C2C=CC=C2C=C1 ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c5f0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3450>,0.6002920383390373,1
+bicycloelemene,CC(=C)[C@H]1[C@H]2[C@H](C2(C)C)CC[C@]1(C)C=C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c580>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd34c0>,0.5175300164727755,1
+bicyclogermacrene,C/C/1=C\CC/C(=C/[C@H]2[C@H](C2(C)C)CC1)/C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c970>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3530>,0.7185014303148982,1
+borneol,CC1(C2CCC1(C(C2)O)C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25c9e0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd35a0>,0.5175300164727755,1
+bornyl acetate,CC(=O)O[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ca50>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3610>,0.5175300164727755,1
+calamenene, C[C@H]1CC[C@H](C2=C1C=CC(=C2)C)C(C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cac0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3680>,0.6147810586460429,1
+camphene,CC1(C2CCC(C2)C1=C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cb30>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd36f0>,0.6147810586460429,1
+camphor,CC1(C2CCC1(C(=O)C2)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cba0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3760>,0.6147810586460429,1
+"caryophylla-2(12),6(13)-dien-5-one",CC1(CC2C1CCC(=C)C(=O)CCC2=C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cc10>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd37d0>,0.6147810586460429,1
+caryophylladienol-II,C/C/1=C/2\CC([C@@H]2C/C=C(\[C@@H](CC1)O)/C)(C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cc80>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3840>,0.6147810586460429,1
+chamazulene,CCC1=CC2=C(C=CC2=C(C=C1)C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cd60>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3920>,0.6002920383390373,1
+chrysanthenone,CC1=CCC2C(=O)C1C2(C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cdd0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3990>,0.6147810586460429,1
+Chrysoeriol rutinoside,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)O)OC)O)O)O)O)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ce40>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3a00>,0.6425470668781224,1
+cis-carveol,CC1=CC[C@H](C[C@H]1O)C(=C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ceb0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3a70>,0.6147810586460429,1
+cis-chrysanthenol,CC1=CCC2C(C1C2(C)C)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cf20>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3ae0>,0.6147810586460429,1
+cis-chrysanthenyl acetate,CC1=CC[C@@H]2C([C@H]1C2(C)C)OC(=O)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25cf90>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3b50>,0.6147810586460429,1
+Cis-melilotoside,C1=CC=C(C(=C1)/C=C\C(=O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d000>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3bc0>,0.6425470668781224,1
+cis-piperitol,CC1=C[C@@H]([C@@H](CC1)C(C)C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d070>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3c30>,0.6147810586460429,1
+cis-p-menth-2-en-1-ol,CC(C)[C@H]1CC[C@](C=C1)(C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d0e0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3ca0>,0.5175300164727755,1
+"cis-p-mentha-1-(7),8-dien-2-ol",CC(=C)[C@H]1CCC(=C)[C@@H](C1)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d150>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3d10>,0.6147810586460429,1
+cis-sabinene hydrate,CC(C)[C@@]12CC[C@]([C@@H]1C2)(C)O ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d1c0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3d80>,0.5175300164727755,1
+cis-verbenol,CC1=C[C@@H]([C@H]2C[C@@H]1C2(C)C)O ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d230>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3df0>,0.6147810586460429,1
+cubebol,C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2[C@@](CC3)(C)O)C(C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d2a0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3e60>,0.5175300164727755,1
+cumin alcohol,CC(C)C1=CC=C(C=C1)CO,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d310>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3ed0>,0.6002920383390373,1
+cuminaldehyde,CC(C)C1=CC=C(C=C1)C=O ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d380>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a3053cd3f40>,0.6002920383390373,1
+davanone, CC(C1CCC(O1)(C)C=C)C(=O)CC=C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d3f0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c040>,0.5175300164727755,1
+"dehydro-1,8-cineole",CC1(C2CCC(O1)(C=C2)C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d460>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c0b0>,0.5175300164727755,1
+dehydrosabinaketone,CC(C)C12CC1C(=O)C=C2,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d4d0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c120>,0.6147810586460429,1
+epi-cubebol,C[C@H]1C=C[C@@H]([C@@H]2[C@@]13C2[C@@](CC3)(C)O)C(C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d540>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c190>,0.5175300164727755,1
+Fucose,C[C@H]1[C@H]([C@H]([C@@H](C(O1)O)O)O)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d5b0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c200>,1.0,1
+Galactose,C([C@@H]1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d620>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c270>,1.0,1
+Galacturonic acid,C(=O)[C@@H]([C@H]([C@H]([C@@H](C(=O)O)O)O)O)O ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d690>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c2e0>,1.0,1
+geraniol,CC(=CCC/C(=C/CO)/C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d700>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c350>,1.0,1
+germacrene,C/C/1=C\CC/C(=C/C[C@@H](CC1)C(=C)C)/C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d770>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c3c0>,0.6147810586460429,1
+germacrene D,C/C/1=C\CCC(=C)/C=C/[C@@H](CC1)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d7e0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c430>,0.6147810586460429,1
+germacrene D-4-ol,C/C/1=C\CCC(/C=C/C(CC1)C(C)C)(C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d850>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c4a0>,0.6147810586460429,1
+globulol,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@@]2(C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d8c0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c510>,0.5175300164727755,1
+Glucose,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d930>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c580>,1.0,1
+Glucuronic acid,[C@@H]1([C@@H]([C@H](OC([C@@H]1O)O)C(=O)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25d9a0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c5f0>,1.0,1
+Homoeriodictyol,COC1=C(C=CC(=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25da10>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c660>,0.6147810586460429,1
+intermedeol,CC(=C)[C@@H]1CC[C@@]2(CCC[C@]([C@H]2C1)(C)O)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25da80>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c6d0>,0.5175300164727755,1
+isoamyl isovalerate,CC(C)CCOC(=O)CC(C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25daf0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c740>,1.0,1
+Isononadecano,CC(C)CCCCCCCCCCCCCCCC(=O)[O-]  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25db60>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c7b0>,1.0,1
+isopropyl-3-methylbenzene,CC1=CC(=CC(=C1F)C(C)C)Br  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25dbd0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c820>,0.6002920383390373,1
+lavandulol,CC(=CC[C@@H](CO)C(=C)C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25dc40>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c890>,1.0,1
+limonene,CC1=CCC(CC1)C(=C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25dcb0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c900>,0.6147810586460429,1
+linalool,CC(=CCCC(C)(C=C)O)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25dd20>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c970>,1.0,1
+linalool acetate,CC(=CCCC(C)(C=C)OC(=O)C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25dd90>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9c9e0>,1.0,1
+Mannose,C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25de00>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9ca50>,1.0,1
+Maritimin,CC1=C(C(=O)C2=C(C=C(C(=C2O1)CC=C)O)OC)OC,<rdkit.Chem.rdchem.Mol object at 0x7a309a25de70>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cac0>,0.6002920383390373,1
+methyl linolenate,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC,<rdkit.Chem.rdchem.Mol object at 0x7a309a25dee0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cb30>,1.0,1
+myrcene,CC(=CCCC(=C)C=C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25df50>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cba0>,1.0,1
+myrtenal,CC1(C2CC=C(C1C2)C=O)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25dfc0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cc10>,0.6147810586460429,1
+myrtenol,CC1(C2CC=C(C1C2)CO)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e030>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cc80>,0.6147810586460429,1
+octadecanol,CCCCCCCCCCCCCCCCCCO,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e0a0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9ccf0>,1.0,1
+p-cymen-8-ol,CC1=CC=C(C=C1)C(C)(C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e110>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cd60>,0.6002920383390373,1
+p-cymene,CC1=CC=C(C=C1)C(C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e180>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cdd0>,0.6002920383390373,1
+pentylbenzene,CCCCCC1=CC=CC=C1,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e1f0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9ce40>,0.6002920383390373,1
+p-Hydroxyacetophenone,CC(=O)C1=CC=C(C=C1)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e260>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9ceb0>,0.6002920383390373,1
+pinocarvone,CC1(C2CC1C(=C)C(=O)C2)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e2d0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cf20>,0.6147810586460429,1
+piperitol,COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC5=C(C=C4)OCO5)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e340>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9cf90>,0.6147810586460429,1
+piperitone,CC1=CC(=O)C(CC1)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e3b0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d000>,0.6147810586460429,1
+p-isopropyl phenol,CC(C)C1=CC=C(C=C1)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e420>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d070>,0.6002920383390373,1
+"p-mentha-1,4-dien-7-ol",CC(C)C1=CCC(=CC1)CO,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e490>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d0e0>,0.6147810586460429,1
+"p-mentha-1,8-dien-10-ol",CC1=CCC(CC1)C(=C)CO,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e500>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d150>,0.6147810586460429,1
+p-menthatriene, CC1=CC=C(CC1)C(=C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e570>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d1c0>,0.6147810586460429,1
+Quinic acid,C1[C@@H]([C@@H]([C@H](C[C@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)OC(=O)/C=C/C3=CC(=C(C=C3)O)O)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e5e0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d230>,0.6147810586460429,1
+Reynosin,[C@@]12CC[C@@H]3[C@@H]([C@H]1C(=C)CC[C@H]2O)OC(=O)C3=C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e650>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d2a0>,0.6147810586460429,1
+Rhamnose,C[C@H]1[C@@H]([C@H]([C@H](C(O1)O)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e6c0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d310>,1.0,1
+Rosmarinic acid,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e730>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d380>,0.6002920383390373,1
+Rutin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e7a0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d3f0>,0.6425470668781224,1
+sabinaketone,CC(C)C12CCC(=O)C1C2  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e810>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d460>,0.7881838028740523,1
+sabinene,CC(C)C12CCC(=C)C1C2,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e880>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d4d0>,0.6147810586460429,1
+sabinyl acetate,CC(C)C12CC1C(=C)C(C2)OC(=O)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e8f0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d540>,0.6147810586460429,1
+santolina alcohol,CC(=CC(C=C)C(C)(C)O)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e960>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d5b0>,1.0,1
+santolina triene,CC(=CC(C=C)C(=C)C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25e9d0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d620>,1.0,1
+santolinyl acetate,CC(=CC(C=C)C(C)(C)OC(=O)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ea40>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d690>,1.0,1
+Scopolin,COC1=C(C=C2C(=C1)C=CC(=O)O2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25eab0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d700>,0.6425470668781224,1
+spathulenol,C[C@@]1(CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25eb20>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d770>,0.6147810586460429,1
+terpinen-4-ol,CC1=CCC(CC1)(C(C)C)O ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25eb90>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d7e0>,0.6147810586460429,1
+terpinolene,CC1=CCC(=C(C)C)CC1,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ec00>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d850>,0.6147810586460429,1
+t-muurolol,CC1=C[C@H]2[C@@H](CC[C@]([C@H]2CC1)(C)O)C(C)C  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ec70>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d8c0>,0.6147810586460429,1
+trans- pinocarveol,CC1([C@@H]2C[C@H]1C(=C)[C@H](C2)O)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ece0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9d930>,0.6147810586460429,1
+trans-linalool oxide furanoid form,C[C@]1(CC[C@H](O1)C(C)(C)O)C=C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25edc0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9da10>,0.5175300164727755,1
+Trans-melilotoside,C1=CC=C(C(=C1)/C=C/C(=O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ee30>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9da80>,0.6425470668781224,1
+trans-piperitol,CC1=C[C@@H]([C@H](CC1)C(C)C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25eea0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9daf0>,0.6147810586460429,1
+trans-piperitone oxide,CC(C)[C@H]1CC[C@]2([C@@H](C1=O)O2)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ef10>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9db60>,0.6147810586460429,1
+"trans-p-menth-2,8-dien-1-ol",CC(=C)[C@H]1CC[C@](C=C1)(C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25ef80>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9dbd0>,0.5175300164727755,1
+trans-p-menth-2-en-1-ol,CC(C)[C@H]1CC[C@@](C=C1)(C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25eff0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9dc40>,0.5175300164727755,1
+trans-sabinene hydrate,CC(C)[C@@]12CC[C@@]([C@@H]1C2)(C)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25f060>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9dcb0>,0.5175300164727755,1
+trans-sabinol,CC(C)[C@]12C[C@H](C(=C)C1C2)O,<rdkit.Chem.rdchem.Mol object at 0x7a309a25f0d0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9dd20>,0.6147810586460429,1
+tricosane,CCCCCCCCCCCCCCCCCCCCCCC,<rdkit.Chem.rdchem.Mol object at 0x7a309a25f140>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9dd90>,1.0,1
+tricyclene,CC1(C2CC3C1(C3C2)C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25f1b0>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9de00>,0.5175300164727755,1
+umbellulone,CC1=CC(=O)C2(C1C2)C(C)C,<rdkit.Chem.rdchem.Mol object at 0x7a309a25f220>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9de70>,0.6147810586460429,1
+vetivazulene,CC1=C2C=C(C=C2C(=CC=C1)C)C(C)C ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25f290>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9dee0>,0.6002920383390373,1
+yomogi alcohol,CC(C)(C=C)/C=C/C(C)(C)O  ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25f300>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9df50>,1.0,1
+Yomogiartemin,CC(=O)O[C@H]1C[C@@]([C@]23[C@@H]([C@@H]4[C@@H]1C(=C)C(=O)O4)[C@@]5([C@H]([C@H]2O3)O5)C)(C)O ,<rdkit.Chem.rdchem.Mol object at 0x7a309a25f370>,<rdkit.DataStructs.cDataStructs.ExplicitBitVect object at 0x7a309ab9dfc0>,0.8904432824184437,1

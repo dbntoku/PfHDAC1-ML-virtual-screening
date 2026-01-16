@@ -1,0 +1,155 @@
+afra_compounds,canonical_smiles
+"1,8-cineole",CC1(C2CCC(O1)(CC2)C)C
+1-epi-cubenol,CC1CCC(C2C1(CCC(=C2)C)O)C(C)C 
+1-Octacosanol,CCCCCCCCCCCCCCCCCCCCCCCCCCCCO
+1-octen-3-ol,CCCCCC(C=C)O
+"2,4-Dihydroxy-6 methoxyacetophenone",CC(=O)C1=C(C=C(C=C1OC)O)O  
+2-methyl butyl isovalerate,CCC(C)COC(=O)CC(C)C
+"3-(2-(2,5-dihydrofuran-3-yl) ethyl)-2,2-Dimethyl-4-methylenecyclohexan-1-one",N/a
+3-thujanone,C[C@@H]1[C@@H]2C[C@]2(CC1=O)C(C)C 
+4-O-Methylglucuronic acid,CO[C@@H]([C@@H]([C@H](C=O)O)O)[C@@H](C(=O)O)O 
+4-terpineol,CC1=CCC(CC1)(C(C)C)O
+Arabinose,C1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O
+ar-curcumene,CC1=CC=C(C=C1)[C@@H](C)CCC=C(C)C
+Arteannuin P,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C
+Arteannuin S,C[C@@H]1CC[C@H]2C(=C)C(=O)O[C@]23[C@H]1CCC(=C3)C  
+Arteannuin T,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C 
+Artemin,CC1C2CCC3(C(CCC(=C)C3(C2OC1=O)O)O)C 
+artemisal, C[C@@H]1CC[C@H]([C@@H]2[C@H]1CCC(=C2)C)C(=C)C(=O)O  
+artemisia alcohol,CC(=CC(C(C)(C)C=C)OC(=O)C)C
+artemisia ketone,CC(=CC(=O)C(C)(C)C=C)C 
+artemisyl acetate,CC(=CC(C(C)(C)C=C)OC(=O)C)C
+Artesin,C[C@@H]1CC[C@H]2[C@H](C(=O)O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)C
+ascaridole,CC(C)C12CCC(C=C1)(OO2)C
+azulene,C1=CC=C2C=CC=C2C=C1 
+bicycloelemene,CC(=C)[C@H]1[C@H]2[C@H](C2(C)C)CC[C@]1(C)C=C
+bicyclogermacrene,C/C/1=C\CC/C(=C/[C@H]2[C@H](C2(C)C)CC1)/C 
+borneol,CC1(C2CCC1(C(C2)O)C)C 
+bornyl acetate,CC(=O)O[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C
+Cadinanolide,N/a
+calamenene, C[C@H]1CC[C@H](C2=C1C=CC(=C2)C)C(C)C  
+camphene,CC1(C2CCC(C2)C1=C)C 
+camphor,CC1(C2CCC1(C(=O)C2)C)C
+"caryophylla-2(12),6(13)-dien-5-one",CC1(CC2C1CCC(=C)C(=O)CCC2=C)C
+caryophylladienol-II,C/C/1=C/2\CC([C@@H]2C/C=C(\[C@@H](CC1)O)/C)(C)C
+caryophyllene oxide,C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2
+chamazulene,CCC1=CC2=C(C=CC2=C(C=C1)C)C  
+chrysanthenone,CC1=CCC2C(=O)C1C2(C)C  
+Chrysoeriol rutinoside,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC(=C(C=C5)O)OC)O)O)O)O)O)O)O
+cis-carveol,CC1=CC[C@H](C[C@H]1O)C(=C)C
+cis-chrysanthenol,CC1=CCC2C(C1C2(C)C)O
+cis-chrysanthenyl acetate,CC1=CC[C@@H]2C([C@H]1C2(C)C)OC(=O)C 
+Cis-melilotoside,C1=CC=C(C(=C1)/C=C\C(=O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
+cis-piperitol,CC1=C[C@@H]([C@@H](CC1)C(C)C)O  
+cis-p-menth-2-en-1-ol,CC(C)[C@H]1CC[C@](C=C1)(C)O  
+"cis-p-mentha-1-(7),8-dien-2-ol",CC(=C)[C@H]1CCC(=C)[C@@H](C1)O  
+cis-sabinene hydrate,CC(C)[C@@]12CC[C@]([C@@H]1C2)(C)O 
+cis-verbenol,CC1=C[C@@H]([C@H]2C[C@@H]1C2(C)C)O 
+cubebol,C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2[C@@](CC3)(C)O)C(C)C 
+cumin alcohol,CC(C)C1=CC=C(C=C1)CO
+cuminaldehyde,CC(C)C1=CC=C(C=C1)C=O 
+davanone, CC(C1CCC(O1)(C)C=C)C(=O)CC=C(C)C
+"dehydro-1,8-cineole",CC1(C2CCC(O1)(C=C2)C)C 
+dehydrosabinaketone,CC(C)C12CC1C(=O)C=C2
+epi-cubebol,C[C@H]1C=C[C@@H]([C@@H]2[C@@]13C2[C@@](CC3)(C)O)C(C)C 
+Fucose,C[C@H]1[C@H]([C@H]([C@@H](C(O1)O)O)O)O  
+Galactose,C([C@@H]1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+Galacturonic acid,C(=O)[C@@H]([C@H]([C@H]([C@@H](C(=O)O)O)O)O)O 
+geraniol,CC(=CCC/C(=C/CO)/C)C
+germacrene,C/C/1=C\CC/C(=C/C[C@@H](CC1)C(=C)C)/C
+germacrene D,C/C/1=C\CCC(=C)/C=C/[C@@H](CC1)C(C)C
+germacrene D-4-ol,C/C/1=C\CCC(/C=C/C(CC1)C(C)C)(C)O  
+globulol,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@@]2(C)O  
+Glucose,C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O  
+Glucuronic acid,[C@@H]1([C@@H]([C@H](OC([C@@H]1O)O)C(=O)O)O)O
+Homoeriodictyol,COC1=C(C=CC(=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O
+intermedeol,CC(=C)[C@@H]1CC[C@@]2(CCC[C@]([C@H]2C1)(C)O)C 
+intermediol,N/a
+isoamyl isovalerate,CC(C)CCOC(=O)CC(C)C  
+Isoarteannuin A,N/a
+Isononadecano,CC(C)CCCCCCCCCCCCCCCC(=O)[O-]  
+isopropyl-3-methylbenzene,CC1=CC(=CC(=C1F)C(C)C)Br  
+lavandulol,CC(=CC[C@@H](CO)C(=C)C)C  
+limonene,CC1=CCC(CC1)C(=C)C
+linalool,CC(=CCCC(C)(C=C)O)C
+linalool acetate,CC(=CCCC(C)(C=C)OC(=O)C)C  
+Mannose,C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O  
+Maritimin,CC1=C(C(=O)C2=C(C=C(C(=C2O1)CC=C)O)OC)OC
+methyl linolenate,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)OC
+myrcene,CC(=CCCC(=C)C=C)C  
+myrtenal,CC1(C2CC=C(C1C2)C=O)C  
+myrtenol,CC1(C2CC=C(C1C2)CO)C  
+octadecanol,CCCCCCCCCCCCCCCCCCO
+p-cymen-8-ol,CC1=CC=C(C=C1)C(C)(C)O  
+p-cymene,CC1=CC=C(C=C1)C(C)C  
+pentylbenzene,CCCCCC1=CC=CC=C1
+p-Hydroxyacetophenone,CC(=O)C1=CC=C(C=C1)O  
+pinocarvone,CC1(C2CC1C(=C)C(=O)C2)C  
+piperitol,COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC5=C(C=C4)OCO5)O
+piperitone,CC1=CC(=O)C(CC1)C(C)C
+p-isopropyl phenol,CC(C)C1=CC=C(C=C1)O
+"p-mentha-1,4-dien-7-ol",CC(C)C1=CCC(=CC1)CO
+"p-mentha-1,8-dien-10-ol",CC1=CCC(CC1)C(=C)CO
+p-menthatriene, CC1=CC=C(CC1)C(=C)C 
+Qinghaocoumarin B,N/a
+Qinghaolignan A,N/a
+Qinghaolignan B,N/a
+Qinghaosu I and III,N/a
+Quinic acid,C1[C@@H]([C@@H]([C@H](C[C@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)OC(=O)/C=C/C3=CC(=C(C=C3)O)O)O  
+Reynosin,[C@@]12CC[C@@H]3[C@@H]([C@H]1C(=C)CC[C@H]2O)OC(=O)C3=C 
+Rhamnose,C[C@H]1[C@@H]([C@H]([C@H](C(O1)O)O)O)O
+Rosmarinic acid,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O 
+Rutin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O
+sabinaketone,CC(C)C12CCC(=O)C1C2  
+sabinene,CC(C)C12CCC(=C)C1C2
+sabinyl acetate,CC(C)C12CC1C(=C)C(C2)OC(=O)C  
+santolina alcohol,CC(=CC(C=C)C(C)(C)O)C 
+santolina triene,CC(=CC(C=C)C(=C)C)C  
+Santolinifolide,N/a
+Santolinifolide A,N/a
+santolinyl acetate,CC(=CC(C=C)C(C)(C)OC(=O)C)C
+Scopolin,COC1=C(C=C2C(=C1)C=CC(=O)O2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O
+spathulenol,C[C@@]1(CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C)O
+terpinen-4-ol,CC1=CCC(CC1)(C(C)C)O 
+terpinolene,CC1=CCC(=C(C)C)CC1
+t-muurolol,CC1=C[C@H]2[C@@H](CC[C@]([C@H]2CC1)(C)O)C(C)C  
+trans- pinocarveol,CC1([C@@H]2C[C@H]1C(=C)[C@H](C2)O)C
+trans-caryophyllene oxide, C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2  
+trans-linalool oxide furanoid form,C[C@]1(CC[C@H](O1)C(C)(C)O)C=C
+Trans-melilotoside,C1=CC=C(C(=C1)/C=C/C(=O)O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O  
+trans-piperitol,CC1=C[C@@H]([C@H](CC1)C(C)C)O  
+trans-piperitone oxide,CC(C)[C@H]1CC[C@]2([C@@H](C1=O)O2)C
+"trans-p-menth-1(7),8-dien-2-ol",N/a
+"trans-p-menth-2,8-dien-1-ol",CC(=C)[C@H]1CC[C@](C=C1)(C)O  
+trans-p-menth-2-en-1-ol,CC(C)[C@H]1CC[C@@](C=C1)(C)O  
+trans-p-meth-2-en-1-ol,N/a
+trans-sabinene hydrate,CC(C)[C@@]12CC[C@@]([C@@H]1C2)(C)O
+trans-sabinol,CC(C)[C@]12C[C@H](C(=C)C1C2)O
+trans-α-bergamotol,N/a
+tricosane,CCCCCCCCCCCCCCCCCCCCCCC
+tricyclene,CC1(C2CC3C1(C3C2)C)C
+Trimethoxy-coumarin,N/a
+umbellulone,CC1=CC(=O)C2(C1C2)C(C)C
+vetivazulene,CC1=C2C=C(C=C2C(=CC=C1)C)C(C)C 
+yomogi alcohol,CC(C)(C=C)/C=C/C(C)(C)O  
+Yomogiartemin,CC(=O)O[C@H]1C[C@@]([C@]23[C@@H]([C@@H]4[C@@H]1C(=C)C(=O)O4)[C@@]5([C@H]([C@H]2O3)O5)C)(C)O 
+α-bisabolol,N/a
+α-copaene,N/a
+α-fenchene,N/a
+α-humulene,N/a
+α-muurolol,N/a
+α-pinene,N/a
+α-terpinene,N/a
+α-terpineol,N/a
+α-thujene,N/a
+α-thujone,N/a
+β-caryophyllene,N/a
+β-costol,N/a
+β-phellandrene,N/a
+β-pinene,N/a
+β-selinene,N/a
+β-thujene,N/a
+β-thujone,N/a
+γ-terpinene,N/a
+δ-cadinene,N/a
+δ-terpineol,N/a
